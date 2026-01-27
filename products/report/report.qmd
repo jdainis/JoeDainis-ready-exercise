@@ -65,6 +65,8 @@ _Provide enough background on your topic that others can understand the why and 
 ## Description of data and data source
 _Describe what the data is, what it contains, where it is from, etc. Eventually this might be part of a methods section._
 
+Two variables were added to the dataset. The first variable looks at the number of jellybeans found in the pockets of the individuals, as individuals were given full access to the largest bowl of jellybeans known to man before they were sampled for data. The second variable looks at the dietary lifestyle of those interviewed in this dataset, differentiating the group between vegans, vegetarians, omnivores and meateaters.
+
 ## Questions/Hypotheses to be addressed
 _State the research questions you plan to answer with this analysis._
 
